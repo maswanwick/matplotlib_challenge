@@ -12,7 +12,7 @@
 
 This analysis report is also found in the Jypyter Notebook, but is included here as well for convenience.
 
-- When comparing Capomulin to the rest of the drugs in the study, Capomulin better than all other drugs with the exception of Ramicane in terms of average tumor size at the end of the study.  Only Capomulin and Ramicane actually saw a reduction in tumor size, since all specimens started with 45.0 mm3 tumor volume.
+- When comparing Capomulin to the rest of the drugs in the study, Capomulin performed better than all other drugs with the exception of Ramicane in terms of average tumor size at the end of the study.  Only Capomulin and Ramicane actually saw a reduction in tumor size, since all specimens started with 45.0 mm3 tumor volume.
 	
 |Drug Regimen |mean	|median	|std|	
 |-|-|-|-|		
